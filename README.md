@@ -9,6 +9,7 @@
 To properly secure the OLED display, adhesive must be applied.
 The rotary encoder used is designed for a 20mm shaft.
 The base is designed to be screwless.
+need to make hole of 5mm(diameter) for rotary encoder
 
     3D Printing Specifications:
 
